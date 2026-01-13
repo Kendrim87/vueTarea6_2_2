@@ -17,17 +17,21 @@
 ## Uso básico
 
 ### Desarrollo (hot-reload)
+
 ```bash
 cd /var/www/html/DWEC/UT06/Tarea6_2_2/vue4
 npm run serve
 ```
+
 Acceso: `http://localhost:8080`
 
 ### Producción
+
 ```bash
 cd /var/www/html/DWEC/UT06/Tarea6_2_2/vue4
 npm run build
 ```
+
 Resultado en `dist/` (acceso local): `http://localhost/DWEC/UT06/Tarea6_2_2/vue4/dist/`
 
 ## Conceptos clave usados
